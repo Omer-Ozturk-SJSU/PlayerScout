@@ -1,0 +1,22 @@
+# Java & Spring Boot
+/target/
+*.log
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment/Secrets
+.env
+application.yml
+
+# Node (if you use Node/Nuxt frontend)
+playerscout-frontend/node_modules/
+playerscout-frontend/.nuxt/
+playerscout-frontend/.output/

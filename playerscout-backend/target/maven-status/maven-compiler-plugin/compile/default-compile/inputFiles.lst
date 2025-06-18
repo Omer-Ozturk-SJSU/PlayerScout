@@ -1,0 +1,12 @@
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\config\SecurityConfig.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\controller\ProfileController.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\service\JwtUtil.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\controller\AuthController.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\repository\ProfileRepository.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\model\Profile.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\model\User.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\repository\UserRepository.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\config\JwtAuthenticationFilter.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\service\ProfileService.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\service\UserService.java
+C:\PlayerScout\playerscout-backend\src\main\java\com\playerscout\PlayerScoutBackendApplication.java

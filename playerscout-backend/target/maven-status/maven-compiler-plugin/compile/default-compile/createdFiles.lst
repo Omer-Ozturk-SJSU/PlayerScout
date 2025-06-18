@@ -1,0 +1,15 @@
+com\playerscout\config\JwtAuthenticationFilter.class
+com\playerscout\controller\AuthController.class
+com\playerscout\service\JwtUtil.class
+com\playerscout\controller\ProfileController.class
+com\playerscout\controller\AuthController$LoginRequest.class
+com\playerscout\service\UserService.class
+com\playerscout\repository\UserRepository.class
+com\playerscout\controller\AuthController$RegisterRequest.class
+com\playerscout\service\ProfileService.class
+com\playerscout\config\SecurityConfig.class
+com\playerscout\controller\AuthController$JwtResponse.class
+com\playerscout\model\Profile.class
+com\playerscout\model\User.class
+com\playerscout\PlayerScoutBackendApplication.class
+com\playerscout\repository\ProfileRepository.class
