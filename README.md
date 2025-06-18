@@ -6,7 +6,3 @@ PlayerScout is a full-stack web application for youth soccer players and coaches
 
 - `playerscout-backend/` — Spring Boot (Java), MySQL, JWT, Cloudinary
 - `playerscout-frontend/` — Nuxt 3 (Vue 3), Tailwind CSS
-
-## Getting Started
-
-See each subfolder for setup instructions.
